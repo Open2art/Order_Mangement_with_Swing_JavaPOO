@@ -1,1 +1,1 @@
-# Order_Mangement_with_Swing_JavaPOO
+# Order_Management_with_Swing_JavaPOO
