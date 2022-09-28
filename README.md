@@ -1,4 +1,4 @@
-# Order_Management_with_Swing_JavaPO0
+# OrderManagement-Swing
 This is an academic project
 
 
