@@ -1,4 +1,4 @@
-# OrderManagement-Swing
+# OrdersManagement-Swing
 This is an academic project
 
 
